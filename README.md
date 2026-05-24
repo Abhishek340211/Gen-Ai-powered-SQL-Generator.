@@ -1,2 +1,30 @@
-# Gen-Ai-powered-SQL-Generator.
-Built an AI-powered system to convert natural language inputs into optimized SQL queries
+# AI-Powered SQL Generator
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+
+---
+
+## Run Backend
+
+Open terminal:
+
+cd backend
+npm install
+npm start
+
+Server starts on:
+http://localhost:5000
+
+---
+
+## Run Frontend
+
+Open:
+frontend/index.html
+
+in browser.
