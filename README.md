@@ -1,6 +1,7 @@
 # AI-Powered SQL Generator
 
 ## Technologies
+- Nlp
 - HTML
 - CSS
 - JavaScript
